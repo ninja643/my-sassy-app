@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-sassy-app"
+    }
+  },
+  "defaultProject": "my-sassy-app",
+  "cli": {
+    "analytics": "f3e6add1-cfd5-40ac-acad-589224eb15e8"
+  }
 }
