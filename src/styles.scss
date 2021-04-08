@@ -1,5 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 .test {
+  &-1 {
+    border: 5px solid var(--main-border-color);
+  }
   border: 1px solid var(--main-border-color);
   background-color: var(--main-background-color);
 }
