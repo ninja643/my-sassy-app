@@ -28,7 +28,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              {
+                "input": "src/theme.css",
+                "bundleName": "theme",
+                "inject": false
+              }
             ],
             "scripts": []
           },
